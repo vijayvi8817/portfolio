@@ -3,11 +3,11 @@ export const myProjects = [
     id: 1,
     title: "Indian Army Recruitment Information Assistant",
     description:
-      "AI/ML and automation-based solutions developed for real-world operational problem statements[cite: 2].",
+      "AI/ML and automation-based solutions developed for real-world operational problem statements.",
     subDescription: [
-      "Worked on social-media-post verification, spam detection, and OSINT workflows[cite: 2].",
-      "Built and tested automated workflows for information processing and verification[cite: 2].",
-      "Collaborated on problem analysis, implementation, and presentation of technical solutions[cite: 2].",
+      "Worked on social-media-post verification, spam detection, and OSINT workflows.",
+      "Built and tested automated workflows for information processing and verification.",
+      "Collaborated on problem analysis, implementation, and presentation of technical solutions.",
     ],
     href: "https://indian-army-recruitment-information.onrender.com/",
     logo: "/assets/logos/automation.svg",
@@ -58,11 +58,11 @@ export const myProjects = [
     id: 3,
     title: "SkillSync - AI Resume Analyzer",
     description:
-      "A full-stack platform with a React frontend and FastAPI backend, handling PDF parsing, AI-powered profile extraction, and resume generation[cite: 2].",
+      "A full-stack platform with a React frontend and FastAPI backend, handling PDF parsing, AI-powered profile extraction, and resume generation.",
     subDescription: [
-      "Designed a hybrid ATS keyword-matching and semantic similarity engine to compare resumes against job descriptions[cite: 2].",
-      "Surfaces explainable skill-gap recommendations using Sentence Transformers and scikit-learn[cite: 2].",
-      "Integrated GitHub API and Google Gemini for AI-assisted, ATS-friendly resume generation using Jinja2 and LaTeX[cite: 2].",
+      "Designed a hybrid ATS keyword-matching and semantic similarity engine to compare resumes against job descriptions.",
+      "Surfaces explainable skill-gap recommendations using Sentence Transformers and scikit-learn.",
+      "Integrated GitHub API and Google Gemini for AI-assisted, ATS-friendly resume generation using Jinja2 and LaTeX.",
     ],
     href: "https://github.com/vijayvi8817/Resume-Analyzer",
     logo: "/assets/logos/nextjs.svg", 
@@ -77,11 +77,11 @@ export const myProjects = [
     id: 4,
     title: "PaySphere - Intelligent Digital Wallet & AI Platform",
     description:
-      "A full-stack web application enabling P2P transfers, QR payments, and real-time balance sync via WebSocket[cite: 2].",
+      "A full-stack web application enabling P2P transfers, QR payments, and real-time balance sync via WebSocket.",
     subDescription: [
-      "Built with a React, TypeScript frontend and Spring Boot REST APIs[cite: 2].",
-      "Designed the PostgreSQL data layer and payment engine with ACID-compliant transactions, optimistic locking, and idempotency[cite: 2].",
-      "Integrated a separate FastAPI microservice with LLM APIs for AI-powered expense categorization and cash-flow forecasting[cite: 2].",
+      "Built with a React, TypeScript frontend and Spring Boot REST APIs.",
+      "Designed the PostgreSQL data layer and payment engine with ACID-compliant transactions, optimistic locking, and idempotency.",
+      "Integrated a separate FastAPI microservice with LLM APIs for AI-powered expense categorization and cash-flow forecasting.",
     ],
     href: "https://github.com/vijayvi8817/PaySphere-Intelligent-Digital-Wallet-AI-Financial-Platform",
     logo: "/assets/logos/react.svg", 
@@ -99,8 +99,8 @@ export const myProjects = [
     description:
       "Advanced business process and media automation pipelines designed to eliminate manual bottlenecks and streamline multi-channel outreach.",
     subDescription: [
-      "Built multi-step workflow automation pipelines utilizing n8n, Webhooks, and REST APIs, cutting operational manual effort by 40%[cite: 2].",
-      "Configured automated integrations across platforms like WhatsApp, Email, Instagram, and Telegram[cite: 2].",
+      "Built multi-step workflow automation pipelines utilizing n8n, Webhooks, and REST APIs, cutting operational manual effort by 40%.",
+      "Configured automated integrations across platforms like WhatsApp, Email, Instagram, and Telegram.",
       "Integrated third-party webhooks and API triggers for seamless CRM data sync and notifications.",
     ],
     href: "https://github.com/vijayvi8817/Workflow_Automation",
@@ -139,10 +139,10 @@ export const experiences = [
     job: "Digital Media & Strategic Communication Intern",
     location: "Hybrid - Pune, India",
     contents: [
-      "Developed AI/ML and automation-based solutions for real-world operational problem statements[cite: 2].",
-      "Worked on social media post verification, spam detection, and OSINT workflows[cite: 2].",
-      "Built and tested automated workflows for information processing and verification[cite: 2].",
-      "Collaborated on problem analysis, implementation, and presentation of technical solutions[cite: 2].",
+      "Developed AI/ML and automation-based solutions for real-world operational problem statements.",
+      "Worked on social media post verification, spam detection, and OSINT workflows.",
+      "Built and tested automated workflows for information processing and verification.",
+      "Collaborated on problem analysis, implementation, and presentation of technical solutions.",
     ],
   },
   {
@@ -151,8 +151,8 @@ export const experiences = [
     job: "Industry Readiness Program Participant",
     location: "Remote - India",
     contents: [
-      "Selected for a two-month industry-oriented software learning program covering RapidMiner and Mendix[cite: 2].",
-      "Completing hands-on exercises and project-based learning in data analytics and low-code application development[cite: 2].",
+      "Selected for a two-month industry-oriented software learning program covering RapidMiner and Mendix.",
+      "Completing hands-on exercises and project-based learning in data analytics and low-code application development.",
     ],
   },
   {
@@ -161,9 +161,9 @@ export const experiences = [
     job: "Software Development and Media Automation Engineer Intern",
     location: "Remote - India",
     contents: [
-      "Built 8+ workflow automation pipelines using n8n, webhooks, and REST APIs, cutting manual effort by 40%[cite: 2].",
-      "Deployed an AI-driven chatbot handling 100+ customer queries per week, improving response efficiency[cite: 2].",
-      "Automated multi-channel outreach across WhatsApp, email, Instagram, and Telegram, plus CRM workflows through third-party API and webhook integrations[cite: 2].",
+      "Built 8+ workflow automation pipelines using n8n, webhooks, and REST APIs, cutting manual effort by 40%.",
+      "Deployed an AI-driven chatbot handling 100+ customer queries per week, improving response efficiency.",
+      "Automated multi-channel outreach across WhatsApp, email, Instagram, and Telegram, plus CRM workflows through third-party API and webhook integrations.",
     ],
   },
 ];
